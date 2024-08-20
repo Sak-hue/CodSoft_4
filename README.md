@@ -1,2 +1,2 @@
 # CodSoft_4
-A flower recommendation system for different emotions
+A flower recommendation system that helps choose flowers with different emotions for different occasions. 
